@@ -1,0 +1,2 @@
+package_path	size_bytes	epoch	val_auc	val_acc	sha256
+models/best.pth	34170315	14	0.8786231884057971	0.783625730994152	e9b3d2781d571974e7ea11f63ef57f084cf7707354ae0b4ccd16342a9bbef35c

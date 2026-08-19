@@ -1,0 +1,9 @@
+{
+  "data_root": "data/internal/images",
+  "train_json": "data/internal/json/train.json",
+  "val_json": "data/internal/json/validation.json",
+  "max_slices": 32,
+  "target_slices": 32,
+  "image_size": 224,
+  "num_workers": 4
+}
